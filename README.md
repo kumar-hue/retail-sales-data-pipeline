@@ -101,6 +101,7 @@ PySpark DataFrames were used for:
 * Applying Window Functions
 * Ranking products by sales
 * Identifying top 3 products within each item type
+The PySpark notebooks used for the analysis are available in the `notebooks/` folder.
 
 ## Project Structure
 
@@ -133,6 +134,14 @@ RetailSalesProject/
 │   └── day13_notes.md
 │
 ├── notebooks/
+│   ├── day6_pyspark_basics.py
+│   ├── day7_pyspark_transformations.py
+│   ├── day8_pyspark_aggregations.py
+│   ├── day9_pyspark_joins.py
+│   ├── day10_pyspark_advanced.py
+│   ├── day11_pyspark_window_functions.py
+│   ├── day12_pyspark_ranking.py
+│   └── day13_final_analysis.py
 │
 ├── output/
 │
